@@ -2,4 +2,4 @@
 
 ##效果图
 
-![图片加载](CircleRoundAnmation/CircleRoundAnmation/keyANmation.gif)
+![图片加载](CircleRoundAnmation/keyANmation.gif)
