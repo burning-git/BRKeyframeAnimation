@@ -17,8 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self useAnmation];
-  //  [self useKeyAnmation];
+   // [self useAnmation];
+   [self useKeyAnmation];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
